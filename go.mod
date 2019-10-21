@@ -8,4 +8,5 @@ require (
 	github.com/google/huproxy v0.0.0-20170601192239-d1350a26ba5b
 	github.com/gorilla/websocket v1.4.1
 	github.com/urfave/cli v1.22.1
+	golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c
 )
